@@ -17,20 +17,20 @@ keywords:
   - sr1
   - cyclescheme
 description: 'Cycle World Sunderland and now Cycleworld Chester le Street are your specialist bike dealerships in The northeast. Triathlon store, Main stockists of Giant, Trek, MGP, Genesis, Ridgeback, Mondraker, Fit BMX, Subrosa BMX, Kink BMX, Shimano service centre, Campagnolo, Sram, scooters sunderland, skateboard sunderland, stunt scooter store,'
-datePublished: '2016-01-09T11:44:10.186Z'
-dateModified: '2016-01-09T11:43:53.580Z'
+datePublished: '2016-01-09T11:48:33.125Z'
+dateModified: '2016-01-09T11:45:00.568Z'
 author: []
 related: []
 app_links: []
 title: 'Cycle World - Giant, Trek, Cervelo, Genesis, Mondraker, MGP, Campagnolo, Shimano ,Sram.'
+sourcePath: _posts/2016-01-09-cycle-world-giant-trek-cervelo-genesis-mondraker-mgp.md
+published: true
 authors: []
 publisher:
   name: Cycleworldshop
   domain: www.cycleworldshop.co.uk
   url: 'http://www.cycleworldshop.co.uk'
   favicon: null
-sourcePath: _posts/2016-01-09-cycle-world-giant-trek-cervelo-genesis-mondraker-mgp.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
