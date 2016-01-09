@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[another test]]></title>
+        <description><![CDATA[another test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 11:44:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cycle World - Giant, Trek, Cervelo, Genesis, Mondraker, MGP, Campagnolo, Shimano ,Sram.]]></title>
+            <description><![CDATA[<article><h1>Cycle World - Giant, Trek, Cervelo, Genesis, Mondraker, MGP, Campagnolo, Shimano ,Sram.</h1><p>The bestest bike shop by far in the universe. end of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e696e29fe1da9ada1c11330f3bd85e94d6d76f07.png"></article>]]></description>
+            <link>http://www.cycleworldshop.co.uk/</link>
+            <guid isPermaLink="false">ae7d8aaa-41b1-4dad-93ed-e053896b74e7</guid>
+            <pubDate>Sat, 09 Jan 2016 11:44:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
